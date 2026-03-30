@@ -1,0 +1,9 @@
+[package]
+name = "snag"
+version = "0.1.0"
+edition = "2024"
+description = "Transactional edit engine for AI coding agents — catch problems before they land"
+license = "Apache-2.0"
+repository = "https://github.com/AccursedGalaxy/snag"
+
+[dependencies]
