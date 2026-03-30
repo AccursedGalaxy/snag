@@ -1,5 +1,20 @@
+# Build
 /target
+
+# Environment
 .env
-STYLE.md
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific: keep instruction files out of repo
 CLAUDE.md
-*.md
+STYLE.md
